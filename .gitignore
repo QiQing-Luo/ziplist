@@ -1,0 +1,5 @@
+*.iml
+.idea
+
+.idea/inspectionProfiles/Project_Default.xml
+.idea/codeStyles/codeStyleConfig.xml
